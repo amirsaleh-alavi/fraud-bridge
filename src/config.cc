@@ -28,6 +28,6 @@ namespace config {
 	uint8_t icmp_type = 0;
 	uint32_t max_tx = 1<<20;
 
-	std::string peer1 = "1.2.3.4", peer2 = "1.2.3.5";
+	std::string peer1 = "10.0.3.6", peer2 = "10.0.3.5";
 }
 
